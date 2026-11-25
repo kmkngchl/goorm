@@ -1,0 +1,15 @@
+# 가상환경
+venv/
+.env
+.env.local
+
+# 로그
+*.log
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
